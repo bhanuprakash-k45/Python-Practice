@@ -6,7 +6,8 @@ boy_name=input("Boy Name: ")
 boy_age=int(input("Boy Age: "))
 girl_name=input("Girl Name:")
 girl_age=int(input("Girl Age:"))
-
+print(boy_name)
+print(girl_name)
 age_diff=boy_age-girl_age
 
 print(f"{boy_name} loves {girl_name} and Age Difference is {age_diff} ")
