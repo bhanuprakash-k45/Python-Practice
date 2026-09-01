@@ -16,4 +16,4 @@ print(a<b)
 print(a>b)
 print(a+b-a*b) #boadmaas
 print(a+b-a+b*2**3) #boadmaas
-
+print(a-b+a*b+2**3) #boadmaas
