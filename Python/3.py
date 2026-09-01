@@ -1,6 +1,6 @@
 #Day 3 I/O 
 
-print("Namaskara")
+print("Hello, World!")
 
 boy_name=input("Boy Name: ")
 boy_age=int(input("Boy Age: "))
