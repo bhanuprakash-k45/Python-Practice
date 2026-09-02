@@ -24,6 +24,10 @@ print(name[:9])
 print(name[5:10])
 print(name[-2])#accessing from last
 print(name[-5:-1])#slicing from last
-print(name[::5])#step slicing
+print(name[::5])#skipping
+b="Hi my name is \nBhanuprakash"
+print(b)#escape sequence
+c="Hi my name is \tBhanuprakash"
+print(c)#escape sequence
 
 
