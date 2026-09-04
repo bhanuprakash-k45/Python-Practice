@@ -20,3 +20,9 @@ print(3 in my_list)#membership operator
 print("P" in my_string)
 a=5
 b=3
+print(a&b)#bitwise operator
+print(a|b)
+print(a^b)
+print(~a)
+print(a<<1)
+print(a>>1)
