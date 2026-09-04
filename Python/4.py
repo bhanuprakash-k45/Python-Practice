@@ -14,3 +14,9 @@ z=15
 print(x>0 and y>5)
 print(x>10 or z>10)
 print(not(x>10))#logical operator
+my_list=[1,2,3,4,5]
+my_string="Python"
+print(3 in my_list)#membership operator
+print("P" in my_string)
+a=5
+b=3
