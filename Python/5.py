@@ -28,3 +28,16 @@ print(sorted(numbers))#sort list in ascending order
 print(numbers)
 print(sum(numbers))#sum of list
 
+#Methods
+print(items.index("Bru"))#index of item in list
+numbers=[1,2,3,1,1]
+print(numbers.count(1))#count of item in list
+items.reverse()#reverse the list
+print(items)
+numbers.sort()#sort the list in ascending order
+print(numbers)
+
+#Nested lists
+m=[[1,2],[3,4]]
+print(m[0])
+print(m[1][1])#accessing nested list
